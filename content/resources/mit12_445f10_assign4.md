@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5888c082-6743-59b9-3f63-bbb2909e10e0
 resourcetype: Document
 title: MIT12_445F10_assign4.pdf
 uid: 0f2b12a5-5a24-fdd0-7436-3992db386feb
