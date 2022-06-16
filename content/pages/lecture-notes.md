@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes for selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -69,9 +71,9 @@ Rehearsal of elevator talk
 Presentation of elevator talk
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_445f10_lec4))
+({{% resource_link 5433f7c0-2286-b3b5-f5b9-fd5ae3f8d00b "PDF" %}})
 
-A template to make slides (zipped file is needed by the TEX file): ([TEX]({{< baseurl >}}/resources/slides)), ([PDF - 1.5MB]({{< baseurl >}}/resources/mit12_445f10_slides)), ([ZIP - 1.8MB]({{< baseurl >}}/resources/12-445_figures)) (This ZIP file contains 3 JPG, 1 AVI, 1 PNG and 1 PDF files.)
+A template to make slides (zipped file is needed by the TEX file): ({{% resource_link 54d20092-c1d5-be08-ee2f-f374fdc9d407 "TEX" %}}), ({{% resource_link 87e13852-f974-d107-dde5-2673e094203c "PDF - 1.5MB" %}}), ({{% resource_link 09bef1e2-3bd4-b0c7-992a-35b5af0fa2bf "ZIP - 1.8MB" %}}) (This ZIP file contains 3 JPG, 1 AVI, 1 PNG and 1 PDF files.)
 
 
 {{< tdclose >}}
@@ -85,7 +87,7 @@ A template to make slides (zipped file is needed by the TEX file): ([TEX]({{< ba
 Rehearsal of short talk
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_445f10_lec5))
+({{% resource_link 62a9f1e9-000f-5241-670f-013456fe1f5a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ Rehearsal of short talk
 Presentation of short talk
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_445f10_lec6))
+({{% resource_link 0cca8d8f-bf66-7b4c-afd2-9b8333c1d1df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +123,7 @@ Rehearsal of mid-length talk
 Presentation of mid-length talk
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit12_445f10_lec7))
+({{% resource_link 559b1f49-49b6-8586-0572-e6148b54dfa7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
