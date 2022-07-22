@@ -5,6 +5,7 @@ file: /courses/12-445-oral-communication-in-the-earth-atmospheric-and-planetary-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT12_445F10_slides.pdf
 uid: 87e13852-f974-d107-dde5-2673e094203c
 ---
 This resource includes information on making slides.
-

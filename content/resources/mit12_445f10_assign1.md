@@ -5,6 +5,7 @@ file: /courses/12-445-oral-communication-in-the-earth-atmospheric-and-planetary-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT12_445F10_assign1.pdf
 uid: 79119fc5-62be-8f51-aec7-0bffd0d15c0c
 ---
 This resource includes exercises comments on my presentation.
-

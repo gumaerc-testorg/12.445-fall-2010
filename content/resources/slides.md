@@ -5,6 +5,7 @@ file: /courses/12-445-oral-communication-in-the-earth-atmospheric-and-planetary-
 file_type: text/x-tex
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: slides.tex
 uid: 54d20092-c1d5-be08-ee2f-f374fdc9d407
 ---
 This resource is a supporting file for lecture 2.
-
