@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains files needed by the TEX file.
 file: /courses/12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010/09bef1e23bd4b0c7992a35b5af0fa2bf_12.445_figures.zip
+file_size: 1898557
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
