@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes exercises comments on elevator presentations.
-file: /courses/12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010/c78b914b0a60aca53baa561087f02cfb_MIT12_445F10_assign2.pdf
+file: /ol-ocw-studio-app/courses/12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010/c78b914b0a60aca53baa561087f02cfb_MIT12_445F10_assign2.pdf
 file_size: 41022
 file_type: application/pdf
 learning_resource_types:
