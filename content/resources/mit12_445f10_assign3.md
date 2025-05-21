@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes exercises comments on slides.
-file: /ol-ocw-studio-app/courses/12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010/1d5f762724ae184524249e082e21b2cd_MIT12_445F10_assign3.pdf
+file: /courses/12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010/1d5f762724ae184524249e082e21b2cd_MIT12_445F10_assign3.pdf
 file_size: 47288
 file_type: application/pdf
 learning_resource_types:
