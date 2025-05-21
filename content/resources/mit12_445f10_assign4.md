@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes exercises comments on clarity.
-file: /ol-ocw-studio-app/courses/12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010/0f2b12a55a24fdd074363992db386feb_MIT12_445F10_assign4.pdf
+file: /courses/12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010/0f2b12a55a24fdd074363992db386feb_MIT12_445F10_assign4.pdf
 file_size: 47007
 file_type: application/pdf
 learning_resource_types:
