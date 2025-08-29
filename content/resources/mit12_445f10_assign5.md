@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes exercises comments on technical details.
-file: /courses/12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010/7424517af168e535f1d7f165883ec318_MIT12_445F10_assign5.pdf
+file: /ol-ocw-studio-app/courses/12-445-oral-communication-in-the-earth-atmospheric-and-planetary-sciences-fall-2010/7424517af168e535f1d7f165883ec318_MIT12_445F10_assign5.pdf
 file_size: 47970
 file_type: application/pdf
 learning_resource_types:
