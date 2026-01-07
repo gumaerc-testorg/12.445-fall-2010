@@ -7,8 +7,8 @@ title: Study Materials
 uid: bd91d723-396d-0379-8003-06c7acd663a4
 ---
 
-Video: {{% resource_link "8742d66d-f1f5-4ba5-89bc-dd85b4cadb85" "Hans Rosling: The Good News of the Decade?" %}}
+Video: [Hans Rosling: The Good News of the Decade?](http://www.ted.com/talks/hans_rosling_the_good_news_of_the_decade.html)
 
-Video: {{% resource_link "30f88b52-3f6c-4eec-bd13-87d254112229" "Climate Change and Red Sea Corals." %}}
+Video: [Climate Change and Red Sea Corals.](http://www.youtube.com/user/AGUvideos#p/u/34/0MhNG9HRj6Y)
 
-{{% resource_link "297d0cc8-42ab-4895-8ffb-e1fe98029973" "Tips for Slides and Talks" %}}
+[Tips for Slides and Talks](https://web.archive.org/web/20100727001625/http://timna.mines.edu/~klarner/guidelines.html)
